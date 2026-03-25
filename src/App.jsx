@@ -190,7 +190,7 @@ function App() {
             <div className="card overview-card">
               <div className="section-heading compact">
                 <p className="eyebrow">Overview</p>
-                <h2>A concise view of my background and focus.</h2>
+                {/*<h2>A concise view of my background and focus.</h2>*/}
               </div>
 
               <div className="overview-grid">
