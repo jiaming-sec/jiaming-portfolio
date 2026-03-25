@@ -223,7 +223,7 @@ function App() {
           <div className="container">
             <div className="section-heading">
               <p className="eyebrow">Experience</p>
-              <h2>Professional Experience</h2>
+              {/*<h2>Professional Experience</h2>*/}
             </div>
 
             <div className="stack">
@@ -272,7 +272,7 @@ function App() {
           <div className="container">
             <div className="section-heading">
               <p className="eyebrow">Projects</p>
-              <h2>Selected Work</h2>
+              {/*<h2>Selected Work</h2>*/}
             </div>
 
             <div className="grid-3">
@@ -300,7 +300,7 @@ function App() {
             <div>
               <div className="section-heading">
                 <p className="eyebrow">Skills</p>
-                <h2>Core Capabilities</h2>
+                {/*<h2>Core Capabilities</h2>*/}
               </div>
 
               <div className="skills-grid">
@@ -323,7 +323,7 @@ function App() {
             <div>
               <div className="section-heading">
                 <p className="eyebrow">Certifications</p>
-                <h2>Credentials</h2>
+                {/*<h2>Credentials</h2>*/}
               </div>
 
               <div className="card credential-card">
