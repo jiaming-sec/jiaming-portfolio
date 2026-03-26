@@ -147,7 +147,7 @@ function App() {
               </div>
 
               <h1>
-                Hi, I’m <span>Jiaming Qu.</span>
+                Hi, I’m Jiaming Qu.
               </h1>
 
               <p className="hero-lead">
