@@ -195,23 +195,22 @@ function App() {
 
               <div className="overview-grid">
                 <div className="mini-card">
-                  <p className="mini-label">Current Role</p>
+                  <p className="mini-label">Experience</p>
                   <p className="mini-value">
-                    Security Engineer at George Washington University
+                    5+ Years in IT 
+                    3+ Years in Cybersecurity
                   </p>
                 </div>
                 <div className="mini-card">
                   <p className="mini-label">Core Focus</p>
                   <p className="mini-value">
-                    Security Operations, Detection, Incident Response, and Cloud
-                    Security
+                    SOC · Detection · Incident Response · Cloud Security
                   </p>
                 </div>
                 <div className="mini-card">
-                  <p className="mini-label">Career Direction</p>
+                  <p className="mini-label">Certifications</p>
                   <p className="mini-value">
-                    Security engineering roles centered on practical defense and
-                    automation
+                    GIAC GCLD · Security+ · ISC2 CC · AWS CCP
                   </p>
                 </div>
               </div>
