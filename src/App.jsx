@@ -146,9 +146,9 @@ function App() {
                 Security Engineer · SOC · Incident Response · Cloud Security
               </div>
 
-              <h2>
+              <h1>
                 Hi, I’m Jiaming Qu.
-              </h2>
+              </h1>
 
               <p className="hero-lead">
                 I build practical security workflows that improve visibility,
