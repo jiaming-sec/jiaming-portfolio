@@ -197,8 +197,7 @@ function App() {
                 <div className="mini-card">
                   <p className="mini-label">Experience</p>
                   <p className="mini-value">
-                    5+ Years in IT 
-                    3+ Years in Cybersecurity
+                    5+ Years in IT · 3+ Years in Cybersecurity
                   </p>
                 </div>
                 <div className="mini-card">
