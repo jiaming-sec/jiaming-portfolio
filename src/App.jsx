@@ -382,7 +382,7 @@ function App() {
       <footer className="site-footer">
         <div className="container footer-inner">
           <p>© 2026 Jiaming Qu. All rights reserved.</p>
-          <p>Portfolio crafted for recruiters, hiring managers, and collaborators.</p>
+          {/*<p>Portfolio crafted for recruiters, hiring managers, and collaborators.</p>*/}
         </div>
       </footer>
     </div>
